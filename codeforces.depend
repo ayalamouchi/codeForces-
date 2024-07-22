@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1719921765 source:c:\users\hp\desktop\codeforces\watermelon.c
+	<stdio.h>
+	<stdlib.h>
+
+1721400708 source:c:\users\hp\desktop\codeforces\way too long words.c
+	<stdio.h>
+	<string.h>
+
+1721487013 source:c:\users\hp\desktop\codeforces\next round.c
+	<stdio.h>
+
+1721489614 source:c:\users\hp\desktop\codeforces\domino piling.c
+	<stdio.h>
+
+1721557714 source:c:\users\hp\desktop\codeforces\petya and strings.c
+	<stdio.h>
+	<string.h>
+
+1721561036 source:c:\users\hp\desktop\codeforces\un ballon de foot.c
+	<stdio.h>
+	<string.h>
+
+1721572540 source:c:\users\hp\desktop\codeforces\twins.c
+	<stdio.h>
+
